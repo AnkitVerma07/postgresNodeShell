@@ -5,7 +5,7 @@
 
 /**
  * @module routers/UsersRouter
- * @author Donald Green <donald.green@medlmobile.com>
+ * @author Ankit Verma
  * @requires express-promise-router
  * @requires services/UserService
  */
