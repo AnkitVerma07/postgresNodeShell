@@ -4,10 +4,6 @@
 'use strict';
 
 /**
- * @author Donald Green <donald.green@medlmobile.com>
- */
-
-/**
  * This is the standard UserModel that will abide by the default scope.
  */
 const models = require('../../../server/models');
