@@ -1,0 +1,13 @@
+{
+  "development": {
+    "username": "client",
+    "password": "password",
+    "database": "test_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "pool": {
+      "min": 0,
+      "max": 5
+    }
+  }
+}

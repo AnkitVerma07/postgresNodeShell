@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "email": "ankit@test.com",
+    "first_name": "Ankit",
+    "last_name": "Verma",
+    "created_at": "2017-04-11T17:43:15.000Z",
+    "updated_at": "2017-04-11T17:43:15.000Z"
+  }
+]

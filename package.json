@@ -1,0 +1,47 @@
+{
+  "name": "postgresNodeShell",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "aws-sdk": "~2.154.0",
+    "axios": "^0.17.1",
+    "bluebird": "~3.5.1",
+    "body-parser": "~1.18.2",
+    "connect-ensure-login": "~0.1.1",
+    "connect-session-sequelize": "~5.0.1",
+    "cookie-parser": "~1.4.3",
+    "cors": "~2.8.4",
+    "debug": "~3.1.0",
+    "express": "~4.16.2",
+    "express-promise-router": "~2.0.0",
+    "express-session": "~1.15.6",
+    "express-swagger-ui": "~0.1.0",
+    "hbs": "~4.0.1",
+    "helmet": "~3.9.0",
+    "jsforce": "~1.8.0",
+    "morgan": "~1.9.0",
+    "multer": "~1.3.0",
+    "multer-s3": "~2.7.0",
+    "nconf": "~0.9.1",
+    "node-validator": "~0.1.27",
+    "oauth2orize": "~1.11.0",
+    "passport": "~0.4.0",
+    "passport-http": "~0.3.0",
+    "passport-http-bearer": "~1.0.1",
+    "passport-local": "~1.0.0",
+    "passport-oauth2-client-password": "~0.1.2",
+    "pg": "~7.4.0",
+    "pg-hstore": "~2.3.2",
+    "querystring": "~0.2.0",
+    "sequelize": "~4.22.11",
+    "uuid": "~3.1.0"
+  },
+  "devDependencies": {
+    "grunt": "~1.0.1",
+    "grunt-jsdoc": "~2.2.0",
+    "jsdoc": "~3.5.5"
+  }
+}
